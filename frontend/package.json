@@ -12,6 +12,8 @@
     "@bundly/ares-core": "0.2.0",
     "@bundly/ares-react": "^0.2.0",
     "@dfinity/agent": "^1.3.0",
+    "@dfinity/candid": "^0.15.7",
+    "@dfinity/principal": "^0.15.7",
     "next": "14.2.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
